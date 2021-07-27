@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    pointer-events: none;
+}
+button
+{
+    pointer-events: initial;
+}
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+}
+input{
+    width: 30%;
+    pointer-events: initial;
+}
+canvas{
+    border: 10px ridge rgb(31, 8, 117);
+    border-radius: 10px;
+    box-shadow: 10px 18px 10px black;
+    margin-top: 140px;
+}
